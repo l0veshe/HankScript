@@ -1,4 +1,7 @@
 #!/bin/bash
+#author: Hank (chenhanhank@icloud.com)
+#date: 2014-09-14 13:57:41
+#Name: MUTT_OneKey
 
 #----------------------------------------------------------#
 #常量设置
