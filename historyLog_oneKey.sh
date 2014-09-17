@@ -1,11 +1,11 @@
 #history记录加强脚本
 #存放地址/data/history
 #history 命令格式
-# 1  hank:211.157.163.146:2014-09-11 15:30:33:history
+# 1  hank:211.157.1.12:2014-09-11 15:30:33:history
 # id  name:ip:date:command
 #author: hank 周宸翰
 #date: 2014年09月11日16:04:36
-#email: zhouchenhan@limei.com;chenhanhank@icloud.com
+#email: chenhanhank@icloud.com
 
 #check /data/history
 if [ -d /data ];
@@ -46,5 +46,5 @@ source /etc/profile
 echo ">> history文件夹位置/data/history/username.his"
 echo ">> 切换到具体用户使用history可见用户IP 等"
 echo ">> history 命令格式"
-echo "1  hank:211.157.163.146:2014-09-11 15:30:33:history"
+echo "1  hank:211.157.3.4:2014-09-11 15:30:33:history"
 echo "id  name:ip:date:command"
